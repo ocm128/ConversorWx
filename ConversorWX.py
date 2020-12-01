@@ -3,6 +3,8 @@
 
 # WxConversor.py
 
+# coded by ocm128 | tdoc@tutamail.com
+
 import glob
 import commands
 import os
@@ -373,8 +375,8 @@ class WxConversor(wx.Frame):
 
     def Onhelp(self, ev):
         dialog = wx.MessageDialog(self,
-            "\nWxConversor v1.0 \nCoder: Kalasni\n"
-            "Contact: kalassni@gmail.com", "About", wx.OK)
+            "\nWxConversor v1.0 \nCoder: ocm128\n"
+            "Contact: ocm128@tutamail.com", "About", wx.OK)
         dialog.ShowModal() # Shows it
         dialog.Destroy() # Destroy it when finished.
 
