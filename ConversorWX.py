@@ -3,7 +3,7 @@
 
 # WxConversor.py
 
-# coded by ocm128 | tdoc@tutamail.com
+# coded by ocm128 |
 
 import glob
 import commands
